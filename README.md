@@ -1,6 +1,6 @@
 # Repositório de Python Básico
 
-Este repositório contém exemplos de código e desafios para o aprendizado dos conceitos fundamentais da linguagem Python. O conteúdo é estruturado de forma modular, progredindo do básico ao avançado.
+Este repositório contém exemplos de código e desafios para o aprendizado dos conceitos fundamentais da linguagem Python. O conteúdo é estruturado de forma modular.
 
 ## 🚀 Conteúdo
 
