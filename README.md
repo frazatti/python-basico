@@ -38,7 +38,7 @@ O repositório está organizado nos seguintes módulos:
     * `12_dicionario_metodos.py`: Métodos de dicionário como `.keys()`, `.values()`, `.items()`, `.get()`.
     * `13_conjunto.py`: Introdução à estrutura de dados `set` (conjunto) e suas operações (`union`, `intersection`, `difference`).
 * **Desafios:**
-    * `a03ex01_cadastro_clientes.py`: Desafio de implementação de um cadastro.
+    * `D16_cadastro_clientes.py`: Desafio de implementação de um cadastro.
 
 ### 04. Arquivos e Streams
 * **Código:**
